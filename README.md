@@ -19,19 +19,21 @@
 </p>
 
 # 💫 About Me:
-🔭 I’m currently working on Web Development Project<br><br>🌱 I’m currently learning Backend , Frameworks<br><br>👯 I’m looking to collaborate on on open source projects<br><br>📫 How to reach me anveshadixt0303@gmail.com<br><br>⚡ Fun fact I love to listen music
+🔭 I’m currently working on Web Development Project<br>
+🌱 I’m currently learning Backend,Frameworks<br>
+👯 I’m looking to collaborate on on open source projects<br>
+📫 How to reach me anveshadixt0303@gmail.com<br>
+⚡ Fun fact **I love to listen music while writing code😀**<br><br>
 
 
 👩***Talking about Personal Stuffs...***
 
 ✔ Pronouns: ***She/Her*** or ***TeamMaker***😉 <br>
-✔ I’m currently learning **Web Development**<br>
 ✔ No matter what happens I try to do atleast one code in a day <br>
 ✔ I've previously tried my hands on Android Development aswell as Web Development <br>
 ✔ I scroll LinkedIn way too much (more than Instagram)💁‍♀️<br>
-✔ You can shoot me an email at <a href="anveshadixit0303@gmail.com"><b>anveshadixit0303.com</b></a>. I'll try to respond as soon as I can.<br>
-✔ Ask me about **C/C++, DSA, Web, HTML5, CSS, Javascript, JAVA, Bootstrap**!😉<br>
-✔ Fun fact : **I love to listen music while writing code😀**<br><br>
+✔ Ask me about **C/C++, DSA, Web, HTML5, CSS, Javascript, JAVA, Bootstrap**!😉<br><br>
+
 
 
 🏆***Achievements...***
