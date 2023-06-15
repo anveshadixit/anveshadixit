@@ -43,6 +43,8 @@
 ✔ Harvard WECode Amplify’23 Scholar <br>
 ✔ Semi-Finalist in Flipkart Grid 4.0 (Qualified Round 1)<br>
 ✔ Winner of 100DaysofCode in CodeINCommunity<br>
+✔ Campus Ambassador @The Sparks Foundation<br>
+✔ Campus Ambassador @CodingNinjas<br>
 ✔ Rank 1965 out of 14000+ participants in CodeAgoda 20220 <br>
 ✔ Semi-Finalistin TechGig’s CodeGladiators 2022 <br>
 ✔ Secure Rank 4907 out of 25000 participants TechGig’s CodeGladiators 2023 <br>
